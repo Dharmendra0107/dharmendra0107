@@ -53,11 +53,7 @@
 ✔ Reduced manual processing by **50%**  
 ✔ Improved transparency & efficiency  
 
-<p align="center">
-  <a href="https://github.com/Dharmendra0107/Online-Admission-System-for-Biotech-Park-Lucknow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmendra0107&repo=Online-Admission-System-for-Biotech-Park-Lucknow&theme=radical" />
-  </a>
-</p>
+
 
 ---
 
