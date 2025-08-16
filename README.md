@@ -16,11 +16,10 @@
   <img src="https://komarev.com/ghpvc/?username=dharmendra0107&style=for-the-badge&label=PROFILE+VIEWS&color=7c3aed" alt="Profile Views"/>
 </p>
 
-
+<!-- Dynamic Quote -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-
 
 ---
 
@@ -47,6 +46,13 @@
 ✔ Reduced manual processing by **50%**  
 ✔ Improved transparency & efficiency  
 
+<!-- Project Card Style -->
+<p align="center">
+  <a href="https://github.com/Dharmendra0107/Online-Admission-System-for-Biotech-Park-Lucknow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmendra0107&repo=Online-Admission-System-for-Biotech-Park-Lucknow&theme=radical" />
+  </a>
+</p>
+
 ---
 
 ## 📊 GitHub Insights
@@ -61,6 +67,21 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmendra0107&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
+</p>
+
+<!-- 3D Contribution Chart -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/profile-gitblock.svg" alt="3D Contribution Graph"/>
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dharmendra0107&theme=radical&no-frame=true&margin-w=10&row=1&column=6" />
+</p>
+
+<!-- Snake Contribution Animation -->
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
