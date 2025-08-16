@@ -70,15 +70,6 @@
 
 ---
 
-## 🎵 Now Playing on Spotify
-<p align="center">
-  <a href="https://open.spotify.com/user/your-spotify-username">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
-  </a>
-</p>
-
----
-
 ## 💬 Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
