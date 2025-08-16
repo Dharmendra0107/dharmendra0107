@@ -12,7 +12,7 @@
 
 <!-- Social + Visitor Counter -->
 <p align="center">
-  <a href="mailto:dkmom00@gmail.com"><img src="https://img.shields.io/badge/Email-dkmom00%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:dkmom00@gmail.com"></a>
   <a href="https://www.linkedin.com/in/dharmendra0107/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/dharmendra0107"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
   <img src="https://komarev.com/ghpvc/?username=dharmendra0107&style=for-the-badge&label=PROFILE+VIEWS&color=7c3aed" alt="Profile Views"/>
