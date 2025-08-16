@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ea5e9,100:7c3aed&text=Dharmendra%20Kumar%20Yadav&fontColor=ffffff&fontSize=48&fontAlign=50&fontAlignY=35&desc=Python%20%7C%20Django%20%7C%20Web%20Developer&descAlign=50&descAlignY=60" alt="Futuristic Banner"/>
 </p>
 
-
-
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Science+Graduate;Python+%26+Django+Developer;Laravel+%26+Developer;Open+Source+Contributor;Future+Tech+Innovator" alt="Typing Animation"/>
@@ -53,8 +51,6 @@
 ✔ Reduced manual processing by **50%**  
 ✔ Improved transparency & efficiency  
 
-
-
 ---
 
 ## 📊 GitHub Insights
@@ -67,10 +63,25 @@
   <img src="https://streak-stats.demolab.com?user=dharmendra0107&theme=highcontrast&hide_border=true" height="160" alt="GitHub Streak"/>
 </p>
 
-
 <!-- Snake Contribution Animation -->
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 🎵 Now Playing on Spotify
+<p align="center">
+  <a href="https://open.spotify.com/user/your-spotify-username">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
+  </a>
+</p>
+
+---
+
+## 💬 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
@@ -80,7 +91,6 @@
 - 📜 **Google IT Support Certificate** (Coursera)  
 - 📜 **Google UX Design Professional Certificate**  
 - 💡 Won **inter-college fest leadership awards (2 years)**  
-
 
 ---
 
