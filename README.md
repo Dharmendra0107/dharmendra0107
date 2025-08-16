@@ -7,7 +7,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Science+Graduate;Python+%26+Django+Developer;Web+%26+Digital+Marketing+Enthusiast;Open+Source+Contributor;Future+Tech+Innovator" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Science+Graduate;Python+%26+Django+Developer;Laravel+%26+Developer;Open+Source+Contributor;Future+Tech+Innovator" alt="Typing Animation"/>
 </p>
 
 <!-- Social + Visitor Counter -->
