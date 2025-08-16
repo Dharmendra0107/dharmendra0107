@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ea5e9,100:7c3aed&text=Dharmendra%20Kumar%20Yadav&fontColor=ffffff&fontSize=48&fontAlign=50&fontAlignY=35&desc=Python%20%7C%20Django%20%7C%20Web%20Developer&descAlign=50&descAlignY=60" alt="Futuristic Banner"/>
 </p>
 
+<!-- Waving Hand Intro -->
+<h2 align="center">
+  Hey there! I'm Dharmendra <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+</h2>
+
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Science+Graduate;Python+%26+Django+Developer;Web+%26+Digital+Marketing+Enthusiast;Open+Source+Contributor;Future+Tech+Innovator" alt="Typing Animation"/>
@@ -16,9 +21,14 @@
   <img src="https://komarev.com/ghpvc/?username=dharmendra0107&style=for-the-badge&label=PROFILE+VIEWS&color=7c3aed" alt="Profile Views"/>
 </p>
 
-<!-- Dynamic Quote -->
+<!-- Rainbow Divider -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
+
+<!-- Coding GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation"/>
 </p>
 
 ---
@@ -46,7 +56,6 @@
 ✔ Reduced manual processing by **50%**  
 ✔ Improved transparency & efficiency  
 
-<!-- Project Card Style -->
 <p align="center">
   <a href="https://github.com/Dharmendra0107/Online-Admission-System-for-Biotech-Park-Lucknow">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmendra0107&repo=Online-Admission-System-for-Biotech-Park-Lucknow&theme=radical" />
@@ -91,6 +100,13 @@
 - 📜 **Google IT Support Certificate** (Coursera)  
 - 📜 **Google UX Design Professional Certificate**  
 - 💡 Won **inter-college fest leadership awards (2 years)**  
+
+---
+
+## 🌆 Skyline Animation
+<p align="center">
+  🌃 Check out my **GitHub Skyline** → [skyline.github.com/dharmendra0107](https://skyline.github.com/dharmendra0107)  
+</p>
 
 ---
 
