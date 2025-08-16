@@ -71,15 +71,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmendra0107&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
 </p>
 
-<!-- 3D Contribution Chart -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/profile-gitblock.svg" alt="3D Contribution Graph"/>
-</p>
 
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dharmendra0107&theme=radical&no-frame=true&margin-w=10&row=1&column=6" />
-</p>
+
+
 
 <!-- Snake Contribution Animation -->
 <p align="center">
