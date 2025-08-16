@@ -3,10 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ea5e9,100:7c3aed&text=Dharmendra%20Kumar%20Yadav&fontColor=ffffff&fontSize=48&fontAlign=50&fontAlignY=35&desc=Python%20%7C%20Django%20%7C%20Web%20Developer&descAlign=50&descAlignY=60" alt="Futuristic Banner"/>
 </p>
 
-<!-- Waving Hand Intro -->
-<h2 align="center">
-  Hey there! I'm Dharmendra <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-</h2>
+
 
 <!-- Typing Animation -->
 <p align="center">
