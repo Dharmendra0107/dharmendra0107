@@ -16,6 +16,12 @@
   <img src="https://komarev.com/ghpvc/?username=dharmendra0107&style=for-the-badge&label=PROFILE+VIEWS&color=7c3aed" alt="Profile Views"/>
 </p>
 
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+
 ---
 
 ## 👨‍💻 About Me
