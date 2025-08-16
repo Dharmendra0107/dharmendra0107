@@ -67,13 +67,6 @@
   <img src="https://streak-stats.demolab.com?user=dharmendra0107&theme=highcontrast&hide_border=true" height="160" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmendra0107&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
-</p>
-
-
-
-
 
 <!-- Snake Contribution Animation -->
 <p align="center">
@@ -88,12 +81,6 @@
 - 📜 **Google UX Design Professional Certificate**  
 - 💡 Won **inter-college fest leadership awards (2 years)**  
 
----
-
-## 🌆 Skyline Animation
-<p align="center">
-  🌃 Check out my **GitHub Skyline** → [skyline.github.com/dharmendra0107](https://skyline.github.com/dharmendra0107)  
-</p>
 
 ---
 
